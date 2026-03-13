@@ -25,3 +25,6 @@ El corazón de este proyecto es el uso estratégico de memoria dinámica:
 * ✅ **Control de Estados:** Bloqueo automático de mesas asignadas para evitar errores de sobreventa o duplicidad.
 * ✅ **Persistencia de Historial:** Registro de la experiencia del cliente para consultas posteriores.
 * ✅ **Gestión de Espera:** Las reservas permanecen en la cola de forma segura hasta que una mesa adecuada se libera.
+
+## 🎓 Contexto Académico
+Proyecto desarrollado para la asignatura de **Estructura de Datos**.

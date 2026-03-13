@@ -1,4 +1,4 @@
-# 🍽️ El Huarique: Sistema de Reservas y Gestión de Mesas
+# 🍽️ El Huarique: Sistema de Reservas de Restaurantes
 
 > Un motor de reservas inteligente que optimiza la asignación de espacios en un restaurante mediante el uso de estructuras de datos dinámicas y lógica de colas de prioridad.
 
